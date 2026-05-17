@@ -94,7 +94,7 @@ Projeto_Integrador/
 ## Autores
 Projeto desenvolvido pelos alunos do curso de Análise e Desenvolvimento de Sistemas — Senac EAD:
 - Victor Hugo Nascimento Silva
-- (Ponham o nome de vcs)
+- Raissa Anne Ribeiro
 
 ---
 ## Licença
